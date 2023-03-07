@@ -8,13 +8,13 @@ import {
     html,
     css,
     reactjs,
-    redux,
+    vue,
     tailwind,
     nodejs,
     mongodb,
     git,
     figma,
-    docker,
+ 
    
     RBK,
    
@@ -22,6 +22,8 @@ import {
     jobit,
     tripguide,
     threejs,
+  
+    MySQL,
   } from "../assets";
   
   export const navLinks = [
@@ -80,8 +82,8 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Vue JS",
+      icon: vue,
     },
     {
       name: "Tailwind CSS",
@@ -108,8 +110,8 @@ import {
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "MySQL",
+      icon: MySQL,
     },
   ];
   
