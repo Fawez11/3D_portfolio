@@ -8,7 +8,7 @@ import menu from './menu.svg';
 import close from './close.svg';
 
 import css from './tech/css.png';
-import docker from './tech/docker.png';
+
 import figma from './tech/figma.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
@@ -23,14 +23,15 @@ import threejs from './tech/threejs.svg';
 import RBK from './company/RBK.jpg';
 import vue from './tech/vue.png';
 import MySQL from './tech/MySQL.png'
+import next from './tech/nextjs.png'
 // import meta from "./company/meta.png";
 // import shopify from "./company/shopify.png";
 // import starbucks from "./company/starbucks.png";
 // import tesla from "./company/tesla.png";
 
-import carrent from './carrent.png';
-import jobit from './jobit.png';
-import tripguide from './tripguide.png';
+import MUN from './MUN.jpg';
+// import jobit from './jobit.png';
+// import tripguide from './tripguide.png';
 
 export {
   logo1,
@@ -55,12 +56,14 @@ export {
   tailwind,
   typescript,
   threejs,
+  next,
   // meta,
   // shopify,
   // starbucks,
   // tesla,
   RBK,
-  carrent,
-  jobit,
-  tripguide,
+  // carrent,
+  // jobit,
+  // tripguide,
+  MUN,
 };
