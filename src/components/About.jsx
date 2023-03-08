@@ -47,10 +47,14 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Passionate, driven, and creative full stack JS developer with a love for
-        coding and a commitment to continuous learning. Bringing innovative
-        solutions to life with a unique blend of technical expertise and
-        problem-solving skills.
+        As a full stack JS developer, I'm fueled by a deep passion for coding
+        and an unwavering commitment to continuous learning. With a unique
+        combination of technical expertise and problem-solving skills, I thrive
+        on bringing innovative solutions to life. I'm driven to push the
+        boundaries of what's possible and to deliver exceptional results for my
+        clients and users. Whether I'm working on the front-end or back-end, I
+        approach each project with creativity and a can-do attitude. Let's bring
+        your ideas to life together.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
