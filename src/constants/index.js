@@ -16,6 +16,7 @@ import {
   figma,
   RBK,
   MUN,
+  Youtube,
   MySQL,
   next,
 } from '../assets';
@@ -147,6 +148,28 @@ const projects = [
     ],
     image: MUN,
     source_code_link: 'https://github.com/Fawez11/Municipality-TN',
+  },
+
+  {
+    name: 'Youtube Clone',
+    description:
+   "My YouTube clone is a React-based web app that uses RapidAPI and Material UI. It allows users to search for and watch YouTube videos within the site, using the YouTube Data API to fetch and display data. The sleek, responsive design makes it easy to use on any device. Through this project, I gained experience with complex APIs and modern front-end development techniques, demonstrating my ability to create high-quality web applications." ,
+    tags: [
+      {
+        name: 'React JS',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'RapidAPI',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Material UI',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: Youtube,
+    source_code_link: 'https://github.com/Fawez11/Youtube-clone',
   },
   
 ];
